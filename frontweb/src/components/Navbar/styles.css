@@ -1,0 +1,10 @@
+.nav-container {
+    height: 33px;
+  }
+
+.nav-container h4 {
+  font-weight: bold;
+  font-size: 24px;
+  letter-spacing: -0.015em;
+  color: #000000;
+}
